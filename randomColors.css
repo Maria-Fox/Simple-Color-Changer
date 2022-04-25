@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+h1 {
+  font-size: 120px;
+}
+.letter {
+  transition: color 1000ms;
+}
